@@ -9,5 +9,8 @@
   "repository": {
     "type": "git",
     "url": "git@github.com:calendize/express-supervisor.git"
+  },
+  "dependencies": {
+    "underscore": "~1.5.1"
   }
 }
